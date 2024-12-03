@@ -1,5 +1,5 @@
 ## 💭 À propos de moi
-🌱 J'approffondit actuellement l'apprentissage de l'algorithmique et des langages complexes.<br>✉️ Vous pouvez me contacter par mail à l'adresse ci-contre : matiss@etik.com.<br>⚡ J'aime les sports automobiles, le sport et l'élèctronique.
+🌱 J'approfondit actuellement l'apprentissage de l'algorithmique et des langages complexes.<br>✉️ Vous pouvez me contacter par mail à l'adresse ci-contre : matiss@etik.com.<br>⚡ J'aime les sports automobiles, le sport et l'élèctronique.
 
 
 ## 💻 Mes compétences :
