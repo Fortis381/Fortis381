@@ -5,4 +5,4 @@
 ## 📈 My stats :
 ![](https://github-readme-stats.vercel.app/api?username=Fortis381&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ## 💰 Help me :
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fortis381) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fortis381)
